@@ -7,8 +7,8 @@
 -debug:portable
 -nostdlib
 -nologo
-"c:\Users\owner\Desktop\GitHub\DotNetCoreProjects\TestingProject\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
--out:"c:\Users\owner\Desktop\GitHub\DotNetCoreProjects\TestingProject\bin\Debug\netcoreapp1.0\TestingProject.dll"
+"c:\Users\owner\Desktop\GitHub\DotNetCoreProjects\DriveScanProject\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
+-out:"c:\Users\owner\Desktop\GitHub\DotNetCoreProjects\DriveScanProject\bin\Debug\netcoreapp1.0\DriveScanProject.dll"
 -r:"C:\Users\owner\.nuget\packages\Microsoft.CSharp\4.0.1\ref\netstandard1.0\Microsoft.CSharp.dll"
 -r:"C:\Users\owner\.nuget\packages\Microsoft.VisualBasic\10.0.1\ref\netstandard1.1\Microsoft.VisualBasic.dll"
 -r:"C:\Users\owner\.nuget\packages\Microsoft.Win32.Primitives\4.0.1\ref\netstandard1.3\Microsoft.Win32.Primitives.dll"
@@ -82,4 +82,4 @@
 -r:"C:\Users\owner\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll"
 -r:"C:\Users\owner\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll"
 -r:"C:\Users\owner\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll"
-"c:\Users\owner\Desktop\GitHub\DotNetCoreProjects\TestingProject\Program.cs"
+"c:\Users\owner\Desktop\GitHub\DotNetCoreProjects\DriveScanProject\Program.cs"

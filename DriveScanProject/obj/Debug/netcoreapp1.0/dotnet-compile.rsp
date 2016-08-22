@@ -1,5 +1,5 @@
---temp-output:c:\Users\owner\Desktop\GitHub\DotNetCoreProjects\TestingProject\obj\Debug\netcoreapp1.0\
---out:c:\Users\owner\Desktop\GitHub\DotNetCoreProjects\TestingProject\bin\Debug\netcoreapp1.0\TestingProject.dll
+--temp-output:c:\Users\owner\Desktop\GitHub\DotNetCoreProjects\DriveScanProject\obj\Debug\netcoreapp1.0\
+--out:c:\Users\owner\Desktop\GitHub\DotNetCoreProjects\DriveScanProject\bin\Debug\netcoreapp1.0\DriveScanProject.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -9,7 +9,7 @@
 --optimize:False
 --debug-type:portable
 --emit-entry-point:True
---output-name:TestingProject
+--output-name:DriveScanProject
 --file-version:1.0.0.0
 --version:1.0.0.0
 --informational-version:1.0.0
@@ -87,4 +87,4 @@
 --reference:C:\Users\owner\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\owner\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\owner\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
-c:\Users\owner\Desktop\GitHub\DotNetCoreProjects\TestingProject\Program.cs
+c:\Users\owner\Desktop\GitHub\DotNetCoreProjects\DriveScanProject\Program.cs
